@@ -1,5 +1,5 @@
 # Automation-of-Creating-a-Minecraft-Server
-# Automatyzacja Tworzenia Serwera Minecraft
+(Automatyzacja Tworzenia Serwera Minecraft)
 
 Ten projekt dotyczy automatyzacji procesu tworzenia serwera Minecraft. Serwer ten pozwala graczom na wspólną rozgrywkę i interakcję w świecie Minecraft. Projekt ma na celu ułatwienie tworzenia i zarządzania serwerem oraz dostosowanie go do określonych potrzeb użytkowników.  
 
