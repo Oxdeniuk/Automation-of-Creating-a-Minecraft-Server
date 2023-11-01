@@ -13,4 +13,7 @@ Nie było konkretnych tutoriali lub kursów, które byłyby ściśle związane z
 
 Największą trudnością w projekcie okazało się dostosowanie skryptów do różnych wersji serwera Minecraft. Minecraft często aktualizuje swoje oprogramowanie, co może wpływać na działanie skryptów. Trzeba było monitorować te zmiany i aktualizować skrypty, aby były zgodne z najnowszą wersją serwera.
 
+Do uruchomienia programu potrzebne są wszystkie 4 pliki projektu.
+Wystarczy odpalić pierwszy i wybrać potrzebną wersję gry na której ma zostać stworzony serwer.
+
 Autor: Adam Olma
